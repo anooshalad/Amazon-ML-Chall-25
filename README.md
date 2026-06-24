@@ -129,3 +129,7 @@ Aadya Deshpande
 Thanks to the organizers of **Amazon ML Challenge 2025** and everyone involved in building and evaluating the competition.
 
 ---
+<img width="1280" height="681" alt="image" src="https://github.com/user-attachments/assets/1e9bef9f-cf73-4bb7-a52f-6c38146df38f" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/715c21ce-b03c-4e9e-b726-1caee55602d5" />
+
